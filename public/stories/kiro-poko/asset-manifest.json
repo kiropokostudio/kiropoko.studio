@@ -1,0 +1,508 @@
+{
+  "generatedAt": "2026-05-22T01:09:33.185Z",
+  "source": "articles/1.밤송이가아니었어",
+  "format": "webp",
+  "quality": 82,
+  "files": [
+    {
+      "source": "캐릭터이미지/chiko.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1823280,
+      "variants": [
+        {
+          "width": 640,
+          "height": 640,
+          "path": "web-assets/characters/chiko-640.webp",
+          "bytes": 68468
+        },
+        {
+          "width": 1024,
+          "height": 1024,
+          "path": "web-assets/characters/chiko-1024.webp",
+          "bytes": 142674
+        }
+      ]
+    },
+    {
+      "source": "캐릭터이미지/kiro.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1711516,
+      "variants": [
+        {
+          "width": 640,
+          "height": 640,
+          "path": "web-assets/characters/kiro-640.webp",
+          "bytes": 59380
+        },
+        {
+          "width": 1024,
+          "height": 1024,
+          "path": "web-assets/characters/kiro-1024.webp",
+          "bytes": 124582
+        }
+      ]
+    },
+    {
+      "source": "캐릭터이미지/murok.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1942213,
+      "variants": [
+        {
+          "width": 640,
+          "height": 640,
+          "path": "web-assets/characters/murok-640.webp",
+          "bytes": 59454
+        },
+        {
+          "width": 1024,
+          "height": 1024,
+          "path": "web-assets/characters/murok-1024.webp",
+          "bytes": 122928
+        }
+      ]
+    },
+    {
+      "source": "캐릭터이미지/poko.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1969459,
+      "variants": [
+        {
+          "width": 640,
+          "height": 640,
+          "path": "web-assets/characters/poko-640.webp",
+          "bytes": 67424
+        },
+        {
+          "width": 1024,
+          "height": 1024,
+          "path": "web-assets/characters/poko-1024.webp",
+          "bytes": 143100
+        }
+      ]
+    },
+    {
+      "source": "캐릭터이미지/sabo.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2258303,
+      "variants": [
+        {
+          "width": 640,
+          "height": 640,
+          "path": "web-assets/characters/sabo-640.webp",
+          "bytes": 92596
+        },
+        {
+          "width": 1024,
+          "height": 1024,
+          "path": "web-assets/characters/sabo-1024.webp",
+          "bytes": 197802
+        }
+      ]
+    },
+    {
+      "source": "캐릭터이미지/zikiki.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1873554,
+      "variants": [
+        {
+          "width": 640,
+          "height": 640,
+          "path": "web-assets/characters/zikiki-640.webp",
+          "bytes": 69252
+        },
+        {
+          "width": 1024,
+          "height": 1024,
+          "path": "web-assets/characters/zikiki-1024.webp",
+          "bytes": 143074
+        }
+      ]
+    },
+    {
+      "source": "표지및중간삽화/1.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3549491,
+      "variants": [
+        {
+          "width": 768,
+          "height": 512,
+          "path": "web-assets/scenes/1-768.webp",
+          "bytes": 126480
+        },
+        {
+          "width": 1280,
+          "height": 853,
+          "path": "web-assets/scenes/1-1280.webp",
+          "bytes": 279744
+        }
+      ]
+    },
+    {
+      "source": "표지및중간삽화/10.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3835843,
+      "variants": [
+        {
+          "width": 768,
+          "height": 512,
+          "path": "web-assets/scenes/10-768.webp",
+          "bytes": 153078
+        },
+        {
+          "width": 1280,
+          "height": 853,
+          "path": "web-assets/scenes/10-1280.webp",
+          "bytes": 329828
+        }
+      ]
+    },
+    {
+      "source": "표지및중간삽화/11.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3826760,
+      "variants": [
+        {
+          "width": 768,
+          "height": 512,
+          "path": "web-assets/scenes/11-768.webp",
+          "bytes": 154908
+        },
+        {
+          "width": 1280,
+          "height": 853,
+          "path": "web-assets/scenes/11-1280.webp",
+          "bytes": 341244
+        }
+      ]
+    },
+    {
+      "source": "표지및중간삽화/12.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2687158,
+      "variants": [
+        {
+          "width": 768,
+          "height": 512,
+          "path": "web-assets/scenes/12-768.webp",
+          "bytes": 60476
+        },
+        {
+          "width": 1280,
+          "height": 853,
+          "path": "web-assets/scenes/12-1280.webp",
+          "bytes": 129934
+        }
+      ]
+    },
+    {
+      "source": "표지및중간삽화/2.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3945670,
+      "variants": [
+        {
+          "width": 768,
+          "height": 512,
+          "path": "web-assets/scenes/2-768.webp",
+          "bytes": 168792
+        },
+        {
+          "width": 1280,
+          "height": 853,
+          "path": "web-assets/scenes/2-1280.webp",
+          "bytes": 358038
+        }
+      ]
+    },
+    {
+      "source": "표지및중간삽화/3.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3832890,
+      "variants": [
+        {
+          "width": 768,
+          "height": 512,
+          "path": "web-assets/scenes/3-768.webp",
+          "bytes": 168554
+        },
+        {
+          "width": 1280,
+          "height": 853,
+          "path": "web-assets/scenes/3-1280.webp",
+          "bytes": 363828
+        }
+      ]
+    },
+    {
+      "source": "표지및중간삽화/4.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3810993,
+      "variants": [
+        {
+          "width": 768,
+          "height": 512,
+          "path": "web-assets/scenes/4-768.webp",
+          "bytes": 169256
+        },
+        {
+          "width": 1280,
+          "height": 853,
+          "path": "web-assets/scenes/4-1280.webp",
+          "bytes": 372556
+        }
+      ]
+    },
+    {
+      "source": "표지및중간삽화/5.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3766752,
+      "variants": [
+        {
+          "width": 768,
+          "height": 512,
+          "path": "web-assets/scenes/5-768.webp",
+          "bytes": 146320
+        },
+        {
+          "width": 1280,
+          "height": 853,
+          "path": "web-assets/scenes/5-1280.webp",
+          "bytes": 322902
+        }
+      ]
+    },
+    {
+      "source": "표지및중간삽화/6.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3968402,
+      "variants": [
+        {
+          "width": 768,
+          "height": 512,
+          "path": "web-assets/scenes/6-768.webp",
+          "bytes": 160832
+        },
+        {
+          "width": 1280,
+          "height": 853,
+          "path": "web-assets/scenes/6-1280.webp",
+          "bytes": 359230
+        }
+      ]
+    },
+    {
+      "source": "표지및중간삽화/7.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 4257833,
+      "variants": [
+        {
+          "width": 768,
+          "height": 512,
+          "path": "web-assets/scenes/7-768.webp",
+          "bytes": 170206
+        },
+        {
+          "width": 1280,
+          "height": 853,
+          "path": "web-assets/scenes/7-1280.webp",
+          "bytes": 394612
+        }
+      ]
+    },
+    {
+      "source": "표지및중간삽화/8.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 4037871,
+      "variants": [
+        {
+          "width": 768,
+          "height": 512,
+          "path": "web-assets/scenes/8-768.webp",
+          "bytes": 166734
+        },
+        {
+          "width": 1280,
+          "height": 853,
+          "path": "web-assets/scenes/8-1280.webp",
+          "bytes": 358962
+        }
+      ]
+    },
+    {
+      "source": "표지및중간삽화/9.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3645298,
+      "variants": [
+        {
+          "width": 768,
+          "height": 512,
+          "path": "web-assets/scenes/9-768.webp",
+          "bytes": 156656
+        },
+        {
+          "width": 1280,
+          "height": 853,
+          "path": "web-assets/scenes/9-1280.webp",
+          "bytes": 328924
+        }
+      ]
+    },
+    {
+      "source": "표지및중간삽화/image.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3325145,
+      "variants": [
+        {
+          "width": 768,
+          "height": 512,
+          "path": "web-assets/scenes/image-768.webp",
+          "bytes": 111878
+        },
+        {
+          "width": 1280,
+          "height": 853,
+          "path": "web-assets/scenes/image-1280.webp",
+          "bytes": 236702
+        }
+      ]
+    },
+    {
+      "source": "표지및중간삽화/image22.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3572027,
+      "variants": [
+        {
+          "width": 768,
+          "height": 512,
+          "path": "web-assets/scenes/image22-768.webp",
+          "bytes": 155482
+        },
+        {
+          "width": 1280,
+          "height": 853,
+          "path": "web-assets/scenes/image22-1280.webp",
+          "bytes": 330444
+        }
+      ]
+    },
+    {
+      "source": "표지및중간삽화/scene-1-1.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3580946,
+      "variants": [
+        {
+          "width": 768,
+          "height": 512,
+          "path": "web-assets/scenes/scene-1-1-768.webp",
+          "bytes": 152004
+        },
+        {
+          "width": 1280,
+          "height": 853,
+          "path": "web-assets/scenes/scene-1-1-1280.webp",
+          "bytes": 334276
+        }
+      ]
+    },
+    {
+      "source": "표지및중간삽화/scene-1-2.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3601747,
+      "variants": [
+        {
+          "width": 768,
+          "height": 512,
+          "path": "web-assets/scenes/scene-1-2-768.webp",
+          "bytes": 132410
+        },
+        {
+          "width": 1280,
+          "height": 853,
+          "path": "web-assets/scenes/scene-1-2-1280.webp",
+          "bytes": 301826
+        }
+      ]
+    },
+    {
+      "source": "표지및중간삽화/scene-1.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3471129,
+      "variants": [
+        {
+          "width": 768,
+          "height": 512,
+          "path": "web-assets/scenes/scene-1-768.webp",
+          "bytes": 130904
+        },
+        {
+          "width": 1280,
+          "height": 853,
+          "path": "web-assets/scenes/scene-1-1280.webp",
+          "bytes": 278878
+        }
+      ]
+    },
+    {
+      "source": "표지및중간삽화/scene2.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3559117,
+      "variants": [
+        {
+          "width": 768,
+          "height": 512,
+          "path": "web-assets/scenes/scene2-768.webp",
+          "bytes": 148928
+        },
+        {
+          "width": 1280,
+          "height": 853,
+          "path": "web-assets/scenes/scene2-1280.webp",
+          "bytes": 324776
+        }
+      ]
+    },
+    {
+      "source": "표지및중간삽화/scene3.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3652371,
+      "variants": [
+        {
+          "width": 768,
+          "height": 512,
+          "path": "web-assets/scenes/scene3-768.webp",
+          "bytes": 154002
+        },
+        {
+          "width": 1280,
+          "height": 853,
+          "path": "web-assets/scenes/scene3-1280.webp",
+          "bytes": 331650
+        }
+      ]
+    }
+  ]
+}

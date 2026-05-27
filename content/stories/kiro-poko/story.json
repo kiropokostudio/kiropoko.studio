@@ -1,0 +1,70 @@
+{
+  "slug": "kiro-poko",
+  "canonicalLang": "ko",
+  "availableLangs": [
+    "ko",
+    "en",
+    "ja",
+    "zh-Hans"
+  ],
+  "plannedLangs": [],
+  "title": {
+    "ko": "밤송이가 아니었어!",
+    "en": "It Wasn't a Chestnut Bur!",
+    "ja": "栗のいがじゃなかった!",
+    "zh-Hans": "原来不是栗子壳!"
+  },
+  "subtitle": {
+    "ko": "기린 키로와 고슴도치 포코의 우정 이야기",
+    "en": "A friendship story about Kiro the giraffe and Poco the hedgehog",
+    "ja": "キリンのキロとハリネズミのポコの友情のおはなし",
+    "zh-Hans": "长颈鹿基罗和小刺猬波可的友情故事"
+  },
+  "description": {
+    "ko": "길을 잃은 아기 기린 키로가 작은 고슴도치 포코와 함께 가족을 찾아가며 서로 다른 시야의 소중함을 배우는 낭독용 그림 이야기.",
+    "en": "A read-aloud picture story about Kiro, a lost young giraffe, who searches for his family with Poco, a tiny hedgehog, and learns why different points of view matter.",
+    "ja": "迷子になった子どものキリン、キロが、小さなハリネズミのポコと家族を探しながら、ちがう目線の大切さに気づいていく読み聞かせ向けの絵物語。",
+    "zh-Hans": "一篇适合亲子朗读的图画故事。迷路的小长颈鹿基罗和小刺猬波可一起寻找家人，也慢慢明白了不同视角的珍贵。"
+  },
+  "author": "Fairytale Editorial",
+  "positioning": "read-aloud picture story",
+  "ageRange": "4-7",
+  "readingTimeMinutes": 9,
+  "themes": [
+    "friendship",
+    "perspective",
+    "courage"
+  ],
+  "coverImage": {
+    "src": "/stories/kiro-poko/scenes/cover-1280.webp",
+    "width": 1280,
+    "height": 853,
+    "alt": "넓은 초원 위에서 키로와 포코가 함께 서 있는 장면"
+  },
+  "coverImages": {
+    "en": {
+      "src": "/stories/kiro-poko/scenes/cover-1280.webp",
+      "width": 1280,
+      "height": 853,
+      "alt": "Kiro and Poco standing together on a wide grassland"
+    },
+    "ja": {
+      "src": "/stories/kiro-poko/scenes/cover-1280.webp",
+      "width": 1280,
+      "height": 853,
+      "alt": "広い草原でキロとポコが一緒に立っている場面"
+    },
+    "zh-Hans": {
+      "src": "/stories/kiro-poko/scenes/cover-1280.webp",
+      "width": 1280,
+      "height": 853,
+      "alt": "基罗和波可一起站在辽阔草原上的场景"
+    }
+  },
+  "coverImageAlt": {
+    "ko": "넓은 초원 위에서 키로와 포코가 함께 서 있는 장면",
+    "en": "Kiro and Poco standing together on a wide grassland",
+    "ja": "広い草原でキロとポコが一緒に立っている場面",
+    "zh-Hans": "基罗和波可一起站在辽阔草原上的场景"
+  }
+}

@@ -1,0 +1,1278 @@
+{
+  "lang": "en",
+  "title": "It Wasn't a Chestnut Bur!",
+  "subtitle": "A friendship story about Kiro the giraffe and Poco the hedgehog",
+  "description": "A read-aloud picture story about Kiro, a lost young giraffe, who searches for his family with Poco, a tiny hedgehog, and learns why different points of view matter.",
+  "pages": [
+    {
+      "id": "cover",
+      "heading": "It Wasn't a Chestnut Bur!",
+      "imageAlt": "Kiro and Poco standing together on a wide grassland",
+      "paragraphs": [
+        {
+          "style": "emphasis",
+          "text": "A friendship story about Kiro the giraffe and Poco the hedgehog"
+        }
+      ]
+    },
+    {
+      "id": "act-1-field",
+      "imageAlt": "Kiro the young giraffe standing alone on a wide grassland and looking for his family",
+      "paragraphs": [
+        {
+          "style": "act-title",
+          "text": "Act 1 - The Meeting"
+        },
+        {
+          "text": "It was a very wide grassland."
+        },
+        {
+          "text": "Yellow blades of grass swayed softly, and fluffy clouds floated across the faraway sky."
+        },
+        {
+          "text": "In the middle of that wide grassland, a young giraffe named Kiro was walking all alone."
+        }
+      ]
+    },
+    {
+      "id": "act-1-lost",
+      "paragraphs": [
+        {
+          "text": "Kiro was a little taller than the other young giraffes. That meant he could see very, very far. But his heart felt very, very small, and he was easily frightened."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Mom? Mom, where are you?\""
+        },
+        {
+          "text": "Kiro stretched his long neck and looked all around. But no matter how hard he looked, he could not see his family."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Dad? Big sister?\""
+        },
+        {
+          "text": "No one answered. Only the wind went whoooosh through the grass."
+        },
+        {
+          "text": "Kiro’s long legs began to tremble. That very morning he had been walking beside his mother, but after following a pretty butterfly, he had somehow ended up all alone."
+        }
+      ]
+    },
+    {
+      "id": "act-1-step",
+      "imageAlt": "Kiro lifting his foot in surprise after stepping on something hidden in the grass",
+      "paragraphs": [
+        {
+          "style": "dialogue",
+          "text": "\"It’s okay, it’s okay. If I look from up high, I’m sure I can find them.\""
+        },
+        {
+          "text": "Kiro tried to comfort himself and kept trudging along. He held his long neck high and looked only into the distance."
+        },
+        {
+          "text": "Then it happened."
+        },
+        {
+          "style": "emphasis",
+          "text": "He stepped on something."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Ah!\""
+        },
+        {
+          "text": "Kiro jumped in surprise and lifted his foot high. The bottom of his hoof stung and prickled."
+        }
+      ]
+    },
+    {
+      "id": "act-1-chestnut",
+      "imageAlt": "Kiro bending his long neck to inspect a round brown spiky object by his foot",
+      "paragraphs": [
+        {
+          "text": "When he looked down, he saw something round and brown on the ground. It was covered all over with sharp little spikes."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Oh? It’s a chestnut bur!\""
+        },
+        {
+          "text": "Kiro tilted his head."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Wait, that’s strange. Are there chestnut trees in Africa?\""
+        },
+        {
+          "text": "Just as Kiro brought his nose close to inspect the chestnut bur..."
+        }
+      ]
+    },
+    {
+      "id": "act-1-poko",
+      "imageAlt": "Kiro falling backward in surprise as Poco uncurls from a spiky ball",
+      "paragraphs": [
+        {
+          "style": "dialogue",
+          "text": "\"Oww... I am done for...\""
+        },
+        {
+          "text": "A voice came from the chestnut bur!"
+        },
+        {
+          "text": "Kiro was so startled that he flopped backward onto the ground. His long legs splayed out in every direction."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Eek! The chestnut bur is talking!\""
+        },
+        {
+          "text": "Then the chestnut bur wriggled and wriggled, and slowly began to uncurl. A tiny nose popped out of the round body, and little feet poked out one by one."
+        },
+        {
+          "style": "emphasis",
+          "text": "It was not a chestnut bur. It was a young hedgehog!"
+        },
+        {
+          "text": "The young hedgehog shook himself off and grumbled."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Ouch, ouch. Who stepped on me?\""
+        },
+        {
+          "text": "The hedgehog’s name was Poco. Poco was very, very small. In the grass, he really did look like a chestnut bur. His back was covered in sharp spikes, and because of those spikes, the other animals did not often come near him."
+        }
+      ]
+    },
+    {
+      "id": "act-1-first-talk-pov",
+      "imageAlt": "From tiny Poco’s point of view, Kiro’s long legs and tall body tower overhead",
+      "paragraphs": [
+        {
+          "style": "dialogue",
+          "text": "\"Watch where you’re going!\""
+        },
+        {
+          "text": "Kiro shouted while he was still sitting on the ground. His hoof was still aching."
+        },
+        {
+          "text": "Poco looked up at the sky. But all he could see were long legs."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"I was watching where I was going! Someone suddenly stepped on me!\""
+        },
+        {
+          "text": "Poco looked higher. He saw a long neck. Then he looked higher and higher and higher, until two eyes were looking down from far above."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Uh... who are you? Why is your voice coming from the sky?\""
+        }
+      ]
+    },
+    {
+      "id": "act-1-first-talk",
+      "imageAlt": "Kiro looking down and Poco looking up as they glare at each other",
+      "paragraphs": [
+        {
+          "style": "dialogue",
+          "text": "\"I’m not the sky. I’m a giraffe! My name is Kiro!\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"A giraffe? What is a giraffe doing above me?\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"I didn’t see you because you were down there looking like a chestnut bur!\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"A chestnut bur?! I’m a hedgehog! My name is Poco!\""
+        },
+        {
+          "text": "For a while, they glared at each other. Kiro looked down, and Poco looked up. Kiro’s neck hurt, and Poco’s neck hurt too."
+        },
+        {
+          "text": "Just looking at each other was hard work. And that was how Kiro and Poco first met."
+        }
+      ]
+    },
+    {
+      "id": "act-2-plan",
+      "paragraphs": [
+        {
+          "style": "act-title",
+          "text": "Act 2 - Traveling and Gathering Clues"
+        },
+        {
+          "text": "Kiro sat on the ground for a long while, blowing gently on his sore hoof. Poco patted his flattened body and grumbled."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Honestly, I thought a rock had fallen from the sky.\""
+        },
+        {
+          "text": "Kiro glanced at Poco. He was upset, but he did not really feel like being angry anymore. His eyes quickly drooped."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"... I’m sorry. I wasn’t looking where I was walking.\""
+        },
+        {
+          "text": "Poco looked up at Kiro’s sad eyes."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"What’s wrong with you? You look like you’re about to cry.\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"I... lost my family.\""
+        },
+        {
+          "text": "Kiro told Poco what had happened that morning: how he had been walking beside his mother, how he had followed a pretty butterfly, how he had suddenly found himself alone, and how he had even hurt his foot."
+        },
+        {
+          "text": "Poco folded his little arms and listened."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Hmm. So you’re looking for your family.\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Yes. But I don’t know where to go. No matter how high I look, I can’t see them.\""
+        },
+        {
+          "text": "Poco thought for a moment. Then his small nose twitched and twitched."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"You can’t only look up high.\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Huh?\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Footprints. Smells. Clues are on the ground.\""
+        }
+      ],
+      "imageAlt": "Kiro and Poco setting off together to look for Kiro’s family"
+    },
+    {
+      "id": "act-2-two-views",
+      "paragraphs": [
+        {
+          "text": "Poco pressed his nose close to the ground and sniffed."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Giraffes are big, so their footprints must be big too. They must leave a smell behind.\""
+        },
+        {
+          "text": "Kiro’s eyes grew round."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"You can find things like that?\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Of course. I spend every day looking at the ground.\""
+        },
+        {
+          "text": "Even while he grumbled, Poco was already sniffing and searching for footprints."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Here is what we will do. You look up high. I will look down low.\""
+        },
+        {
+          "text": "Kiro lifted his long neck. Poco pressed his nose close to the ground."
+        },
+        {
+          "text": "One looked at the sky, and one looked at the earth. And so their journey began."
+        },
+        {
+          "text": "Poco walked a few steps, then suddenly stopped."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Look here.\""
+        },
+        {
+          "text": "Kiro lowered his long neck all the way down toward Poco. In the grass, a large round mark was stamped clearly into the ground."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Is this... a footprint?\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"A big footprint. It looks like your family’s footprint.\""
+        },
+        {
+          "text": "Poco pressed his nose into the mark and sniffed."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"They went this way. The grass is flattened to one side.\""
+        },
+        {
+          "text": "Kiro’s eyes grew round. He had never noticed that something like this had been right under his feet."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Wow! You’re right!\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"What’s so wow? Hurry up.\""
+        },
+        {
+          "text": "Poco led the way. Kiro followed him slowly. The footprints became clearer and clearer."
+        }
+      ],
+      "imageAlt": "Poco inspecting footprints on the ground while Kiro looks down beside him"
+    },
+    {
+      "id": "act-2-chiko",
+      "imageAlt": "Chiko the parrot sitting on Kiro’s head and pointing in several directions",
+      "paragraphs": [
+        {
+          "text": "How long had they walked? The two were side by side — well, not exactly side by side, because whenever Kiro took one step, Poco had to run five little steps."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Giraffe! You’re a giraffe, right?\""
+        },
+        {
+          "text": "A noisy voice came from the sky. Flutter, flutter! A bright red, blue, and green bird circled above Kiro’s head."
+        },
+        {
+          "text": "It was Chiko the parrot."
+        },
+        {
+          "text": "Chiko landed right on Kiro’s head and started talking without a pause."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Oh, I know! You’re looking for your family, right? A herd of giraffes! I saw them! Of course I saw them! I fly through the sky, so I see everything!\""
+        },
+        {
+          "text": "Kiro’s eyes sparkled."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Really?! Where did you see them?\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"By the big lake! Oh, wait. Was it near the mountain? No, maybe it was the river... The giraffes kept moving around!\""
+        },
+        {
+          "text": "Chiko flapped his wings, pointing this way, then that way, then another way."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Lake! Mountain! River! They were moving here and there! It was one of those three! Probably! Almost definitely!\""
+        },
+        {
+          "text": "Then Chiko shouted, \"Good luck!\" and fluttered away as suddenly as he had arrived."
+        },
+        {
+          "text": "Kiro stood there in a daze."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"... Is it the lake? The mountain? The river?\""
+        },
+        {
+          "text": "Poco let out a long sigh."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"I do not trust that bird at all.\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"But I think he did see something.\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"We can’t go in three directions at once. We have to choose one.\""
+        },
+        {
+          "text": "Poco put his nose to the ground and slowly turned in a circle. Sniff, sniff. Sniff sniff."
+        },
+        {
+          "text": "He pointed his nose toward the mountains."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"The grass toward the mountains only has little footprints. Rabbit smell, field mouse smell.\""
+        },
+        {
+          "text": "He pointed his nose toward the river."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"The river side... only smells strongly of mud. No big-foot smell.\""
+        },
+        {
+          "text": "Finally, he pointed his nose toward the lake. Then Poco’s spikes rose just a little."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"This way.\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Why?\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"The big-foot smell keeps going this way. The grass is flattened to one side too. It’s the same smell as the footprint we found this morning.\""
+        },
+        {
+          "text": "Kiro lifted his long neck and looked far in the direction Poco pointed. Beyond the endless grassland, something gave a small sparkle."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Poco... I see something shining far away. It looks like water.\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"It might be the lake. Let’s go.\""
+        }
+      ]
+    },
+    {
+      "id": "act-2-murok",
+      "imageAlt": "Tiny Poco standing boldly in front of the huge rhinoceros Murok",
+      "paragraphs": [
+        {
+          "text": "They started walking in the direction where the lake seemed to be. Poco kept sniffing as he led the way."
+        },
+        {
+          "text": "Then Poco stopped short."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"... Kiro.\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Yes?\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"There is something very big up ahead.\""
+        },
+        {
+          "text": "Kiro turned his head forward. A huge rock was standing there."
+        },
+        {
+          "text": "No, it was not a rock. The rock moved!"
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Eek!\""
+        },
+        {
+          "text": "Kiro stepped backward, and Poco was almost caught under his foot."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Hey! Watch it! You almost stepped on me again!\""
+        },
+        {
+          "text": "A huge gray body. A blunt horn. Small eyes. It was Murok the rhinoceros."
+        },
+        {
+          "text": "Murok turned his head very slowly. Then he looked from Kiro to Poco with his small eyes."
+        },
+        {
+          "text": "Murok said nothing."
+        },
+        {
+          "text": "Kiro’s legs trembled again because Murok’s giant horn was frightening. But Poco marched straight forward."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Hello! We’re looking for Kiro’s family. Have you seen a herd of giraffes?\""
+        },
+        {
+          "text": "Murok looked down at Poco. He saw Poco’s sharp spikes too."
+        },
+        {
+          "text": "But Murok did not move away. Instead, he brought his nose closer to Poco."
+        },
+        {
+          "text": "Poco was surprised. Other animals always stepped back when they saw his spikes."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"... Big lake.\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Big lake?\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"A herd of giraffes. I saw them by the big lake. They were moving here and there.\""
+        },
+        {
+          "text": "Kiro’s eyes grew wide."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"So Chiko’s lake was real!\""
+        },
+        {
+          "text": "Murok nodded slowly and went back to eating grass. But before he turned away, he looked at Poco once more and said,"
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Nice spikes.\""
+        },
+        {
+          "text": "At those words, Poco’s spikes seemed to soften just a little. His cheeks turned a little, just a very little, red."
+        },
+        {
+          "text": "But Poco quickly turned his head away."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Hmph. Well, of course they’re nice.\""
+        },
+        {
+          "text": "Kiro saw Poco’s red cheeks and smiled a little, but he did not say anything. If he did, he might get poked."
+        }
+      ]
+    },
+    {
+      "id": "act-2-zikiki",
+      "imageAlt": "Zikiki hanging upside down from a branch and looking at Kiro and Poco below",
+      "paragraphs": [
+        {
+          "text": "They walked toward the big lake. The sun slowly tilted, and the sky began to turn orange."
+        },
+        {
+          "text": "As the lake came closer, trees appeared one by one. Tall trees, small trees, trees wrapped with vines."
+        },
+        {
+          "text": "Then Kiro suddenly stopped. He stretched his long neck higher, and higher."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Poco! Look over there.\""
+        },
+        {
+          "text": "Even on tiptoe, Poco could see nothing but blades of grass."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"I can’t see. What’s there?\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"There is a big tree far away. Something is swinging at the top. It looks like a tail.\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"A tail?\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Yes. A long tail curled into a circle.\""
+        },
+        {
+          "text": "Poco lifted his nose and smelled the wind."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Banana smell. I think I know who it is. Let’s go.\""
+        },
+        {
+          "text": "They hurried toward the tree."
+        },
+        {
+          "text": "When they came closer, someone really was hanging upside down from a branch."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Hee hee hee hee!\""
+        },
+        {
+          "text": "A long-tailed monkey grinned with crescent-shaped eyes."
+        },
+        {
+          "text": "It was Zikiki the monkey."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Hey, hey, hey! You’re a giraffe, right? Looking for your family, right? Hee hee, I know everything.\""
+        },
+        {
+          "text": "Kiro was startled."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"How did you know?!\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Because from high up in the trees, I can see everything. Hee hee.\""
+        },
+        {
+          "text": "Zikiki climbed swiftly up the branches, shaded his eyes with one hand, and looked into the distance."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"I see them, I see them! A herd of giraffes! They’re over there!\""
+        },
+        {
+          "text": "Kiro’s heart pounded."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Really?! Where?! Tell me!\""
+        },
+        {
+          "text": "Zikiki slid back down and brought his face right in front of Kiro’s nose."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"I can tell you. But you see...\""
+        },
+        {
+          "text": "Zikiki winked."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Nothing is free. Hee hee.\""
+        },
+        {
+          "text": "Poco frowned."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"What do you want?\""
+        },
+        {
+          "text": "Zikiki turned around and stuck out his back."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"My back itches, and I can’t reach it. Scratch here for me!\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"... That’s your condition?\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Yep! Give me a really good scratch, and I’ll tell you!\""
+        },
+        {
+          "text": "Poco looked up at Kiro with a face that said this was ridiculous. Kiro was confused too, but this was something he could do."
+        },
+        {
+          "text": "Kiro stretched out his long tongue and scratched Zikiki’s back, swish, swish."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Oooh! Left, left! Ah, right there! That feels great!\""
+        },
+        {
+          "text": "Zikiki shivered all over with joy."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Good! A promise is a promise!\""
+        },
+        {
+          "text": "Zikiki climbed back to the treetop and pointed in one direction."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Across the lake, there are three acacia trees. The giraffe herd is beside them! I’m sure!\""
+        }
+      ]
+    },
+    {
+      "id": "act-2-found",
+      "paragraphs": [
+        {
+          "text": "Tears welled up in Kiro’s eyes."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Really? They’re really there?\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"My eyes never lie! Hurry and go!\""
+        },
+        {
+          "text": "Kiro looked across the lake. Far, far away, he thought he could see the shadows of three trees."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Poco! We found them! We finally found them!\""
+        },
+        {
+          "text": "Poco looked up and smiled a little. His mouth still stuck out in a pout, but his eyes were definitely smiling."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Hmph. We’re not there yet. Let’s hurry.\""
+        },
+        {
+          "text": "They started walking toward the lake again. This time, they walked much faster than before."
+        }
+      ],
+      "imageAlt": "Kiro and Poco looking toward a far lake and acacia trees"
+    },
+    {
+      "id": "act-3-warning",
+      "paragraphs": [
+        {
+          "style": "act-title",
+          "text": "Act 3 - Danger"
+        },
+        {
+          "text": "The lake was getting closer and closer. The smell of water rode on the wind."
+        },
+        {
+          "text": "Kiro’s steps grew quicker."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Just a little farther! We only have to find the three acacia trees!\""
+        },
+        {
+          "text": "But Poco suddenly stopped. His spikes began to stand on end."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Kiro. Wait.\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Why?\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Something is following us from behind.\""
+        },
+        {
+          "text": "Kiro looked back. He saw nothing. Only the grass swayed softly."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"There’s nothing there.\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"There is. There’s another smell mixed in with the grass. A meat-eater smell.\""
+        },
+        {
+          "text": "Poco’s nose had never been wrong. Kiro’s legs began to tremble again."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Wh-what should we do?\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Keep walking. Don’t look back. Slowly.\""
+        },
+        {
+          "text": "They walked as if nothing was wrong. But Kiro’s heart went thump, thump, thump, so loudly."
+        }
+      ]
+    },
+    {
+      "id": "act-3-sabo",
+      "imageAlt": "Kiro and Poco facing Sabo the lion hidden among tall grass",
+      "paragraphs": [
+        {
+          "text": "Something rustled in the grass. It was getting closer."
+        },
+        {
+          "text": "Kiro turned his head just a little. Between the tall grasses, something appeared for a moment."
+        },
+        {
+          "text": "A tawny mane. Sharp eyes."
+        },
+        {
+          "style": "emphasis",
+          "text": "It was a lion. It was Sabo."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Po-Poco...\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"I know. I know too.\""
+        },
+        {
+          "text": "Sabo crouched low in the grass and crept closer. His eyes were the eyes of a hunter. And those eyes were fixed on Kiro."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Kiro! Put me on your back!\""
+        },
+        {
+          "text": "Poco shouted. Kiro quickly lowered his head and lifted Poco onto his back. From there, Poco glared at Sabo."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Good. Now run!\""
+        },
+        {
+          "text": "Kiro started running. His long legs bounded through the grass."
+        },
+        {
+          "text": "But Sabo was fast too. No, Sabo was faster."
+        },
+        {
+          "text": "Closer. Closer. Closer."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Kiro, he’s going to catch us! Stop!\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Stop?! Now?!\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Listen to me! I have a plan!\""
+        }
+      ]
+    },
+    {
+      "id": "act-3-tail",
+      "imageAlt": "Kiro swinging his tail so Poco, curled into a spiky ball, bumps Sabo on the nose",
+      "paragraphs": [
+        {
+          "text": "Kiro stopped in a hurry, and Poco spoke quickly."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"I’m going to hang onto your tail.\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"My tail?!\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"When Sabo leaps, I’ll give you the signal. Then swing your tail as hard as you can.\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Wh-what does that even...\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Remember my spikes?\""
+        },
+        {
+          "text": "Kiro remembered the first time they met, and how much his hoof had hurt when he stepped on Poco."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"... I remember.\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"We’re going to give Sabo that same pain.\""
+        },
+        {
+          "text": "Poco darted down from Kiro’s back and grabbed the end of Kiro’s tail. When he curled into a ball, it looked as if a spiky ball were hanging from the tail."
+        },
+        {
+          "text": "Sabo stopped and glared at Kiro."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Little giraffe, tired of running?\""
+        },
+        {
+          "text": "Sabo growled low. He gathered strength in his hind legs. Then he leapt!"
+        },
+        {
+          "style": "sound",
+          "text": "\"Now!!!\""
+        },
+        {
+          "text": "Poco shouted."
+        },
+        {
+          "text": "Kiro squeezed his eyes shut. Then he swung his tail with all his might!"
+        },
+        {
+          "style": "sound",
+          "text": "Whoooooosh! Thwack!"
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Aaaaaagh!!!\""
+        },
+        {
+          "text": "Poco’s spikes struck Sabo right on the nose. Sabo clutched his nose with his front paws and rolled over and over."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Ow! That hurts! What is this? Owwww!\""
+        },
+        {
+          "text": "Sabo ran away into the grass, holding his nose with tears in his eyes. His huge body disappeared into the distance, crying loudly."
+        }
+      ]
+    },
+    {
+      "id": "act-3-friends",
+      "paragraphs": [
+        {
+          "text": "For a while, the two stood still. They were both panting hard."
+        },
+        {
+          "text": "Kiro spoke first."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Poco.\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"... What?\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Your spikes are amazing.\""
+        },
+        {
+          "text": "Poco climbed down from Kiro’s tail and shook dust from his body."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"When we first met, you told me to watch where I was going.\""
+        },
+        {
+          "text": "Kiro smiled sheepishly."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Back then, I didn’t know your spikes were this wonderful.\""
+        },
+        {
+          "text": "Poco turned his head away. But the ears peeking through his spikes had turned red."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"... Hmph. Let’s hurry. Your family is waiting.\""
+        },
+        {
+          "text": "Kiro nodded. And this time, he lowered his head to look at Poco."
+        },
+        {
+          "text": "Not far away in the distance, but right down by his feet, at his friend."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Thank you, Poco.\""
+        },
+        {
+          "text": "Poco’s spikes softened a little."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"... It was nothing.\""
+        },
+        {
+          "text": "They began walking toward the lake again. This time, side by side. Kiro slowed his steps to match Poco’s."
+        }
+      ]
+    },
+    {
+      "id": "act-4-reunion",
+      "imageAlt": "Kiro running toward his family as his mother giraffe comes to meet him",
+      "paragraphs": [
+        {
+          "style": "act-title",
+          "text": "Act 4 - Reunion and Goodbye"
+        },
+        {
+          "text": "By the time they reached the far side of the lake, the sun was almost gone."
+        },
+        {
+          "text": "The sky was changing from orange to purple. A cool wind blew."
+        },
+        {
+          "text": "Kiro stopped."
+        },
+        {
+          "text": "Far away, he saw three acacia trees. And beneath them, he saw giraffes."
+        },
+        {
+          "text": "Kiro felt as if his heart had stopped."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Mom...\""
+        },
+        {
+          "text": "He saw his mother giraffe. She was turning her long neck this way and that, searching for something. His father was looking into the distance. His big sister was peering through the grass."
+        },
+        {
+          "text": "Everyone in his family was moving around. Not one of them was standing still."
+        },
+        {
+          "text": "He remembered what Chiko had said: the giraffes kept moving around."
+        },
+        {
+          "text": "He remembered what Murok had said too: they were moving here and there."
+        },
+        {
+          "text": "The big-foot smell Poco had first found, and the path where the grass lay flattened to one side, had all been made by this family."
+        },
+        {
+          "text": "This was what they meant."
+        },
+        {
+          "text": "His family had been looking for Kiro too. All day long."
+        },
+        {
+          "text": "A tear fell from Kiro’s big eye."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Mom!!!\""
+        },
+        {
+          "text": "Kiro shouted with all his strength."
+        },
+        {
+          "text": "His mother turned her head. She saw Kiro."
+        },
+        {
+          "text": "His mother ran. Kiro ran too. On his long legs, with all his strength, not wobbling this time but truly running. Thump."
+        },
+        {
+          "text": "His mother’s long neck wrapped around Kiro’s neck. His father came. His sister came too. Kiro’s family surrounded him."
+        },
+        {
+          "text": "No one said anything. They simply rubbed their necks together, smelled one another, and made sure they were together."
+        },
+        {
+          "text": "Kiro cried for a long time."
+        }
+      ]
+    },
+    {
+      "id": "act-4-thanks",
+      "paragraphs": [
+        {
+          "text": "After a while, Kiro suddenly looked back."
+        },
+        {
+          "text": "Poco was there. He stood a little distance away, very small, watching Kiro’s family. His mouth was sticking out as usual, but his eyes looked a little different."
+        },
+        {
+          "text": "Kiro walked over to Poco. Once again, he lowered his head to look at him."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Mom, there is a friend I want you to meet.\""
+        },
+        {
+          "text": "Kiro brought his mother over to Poco."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"This is Poco. When I was lost, he walked with me, found the way by smell, and protected me from a scary lion.\""
+        },
+        {
+          "text": "Kiro’s mother slowly lowered her long neck to look at Poco. His father and sister lowered their heads too. Kiro’s whole family looked down at Poco."
+        },
+        {
+          "text": "With so many eyes suddenly looking at him, Poco grew flustered and his spikes stood up."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Uh, well... I didn’t really do much...\""
+        },
+        {
+          "text": "Kiro’s mother spoke in a gentle voice."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Thank you, Poco. Thank you so much for helping our Kiro.\""
+        },
+        {
+          "text": "Kiro’s father nodded."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"You are a brave friend.\""
+        },
+        {
+          "text": "Kiro’s sister gently brought her nose near Poco too. Even when they saw his spikes, none of them moved away. Just like Murok."
+        },
+        {
+          "text": "Poco’s spikes slowly settled down. His cheeks turned red, this time too red to hide."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Hmph. I just... walked with him, that’s all.\""
+        },
+        {
+          "text": "Then Kiro walked to an acacia tree. He stretched his long neck up and plucked a fruit from a very high branch. It was yellow and round and smelled sweet."
+        },
+        {
+          "text": "Kiro lowered his head and placed the fruit in front of Poco."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"What is this?\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"An acacia fruit. It grows high up, so only giraffes can pick it.\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"... So?\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"You did what I couldn’t do. Smelling, finding the way, walking with me. I wanted to give you something I can do.\""
+        },
+        {
+          "text": "Poco looked down at the fruit. His little nose twitched. He took one bite."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"...\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Is it good?\""
+        },
+        {
+          "style": "dialogue",
+          "text": "\"... It’s not bad.\""
+        },
+        {
+          "text": "The corner of Poco’s mouth lifted just a little. Just a tiny bit."
+        }
+      ],
+      "imageAlt": "Kiro looking gratefully at the acacia fruit Poco has given him"
+    },
+    {
+      "id": "act-4-goodbye",
+      "paragraphs": [
+        {
+          "text": "When Poco finished the fruit, he turned around. His small back was packed with spikes."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Take care. Next time, watch where you’re going, giraffe.\""
+        },
+        {
+          "text": "Poco began to trudge away."
+        },
+        {
+          "text": "Kiro watched Poco’s small back. Round, spiky, and very, very small."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Poco!\""
+        },
+        {
+          "text": "Kiro called."
+        },
+        {
+          "text": "Poco stopped and looked back."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Will I see you again?\""
+        },
+        {
+          "text": "Poco was still for a moment."
+        },
+        {
+          "text": "Then he smiled, very, very small. It was the first time Kiro had ever seen Poco smile."
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Even if I look like a chestnut bur, look carefully.\""
+        },
+        {
+          "text": "Poco waved one small hand. Then he disappeared into the grass."
+        },
+        {
+          "text": "Kiro stood there for a long time."
+        }
+      ],
+      "imageAlt": "Kiro and Poco saying goodbye as silhouettes under the sunset"
+    },
+    {
+      "id": "ending",
+      "paragraphs": [
+        {
+          "text": "A few days passed."
+        },
+        {
+          "text": "Kiro was walking across the grassland with his family again. He walked beside his mother, and this time, he did not follow a butterfly away."
+        },
+        {
+          "text": "But Kiro had a new habit."
+        },
+        {
+          "text": "Every now and then, as he walked, he lowered his head. He bent his long neck and looked through the grass."
+        },
+        {
+          "text": "His mother asked,"
+        },
+        {
+          "style": "dialogue",
+          "text": "\"Kiro, what are you looking at?\""
+        },
+        {
+          "text": "Kiro smiled and said,"
+        },
+        {
+          "style": "dialogue",
+          "text": "\"A chestnut bur.\""
+        },
+        {
+          "text": "His mother tilted her head, but Kiro just smiled."
+        },
+        {
+          "text": "Because a precious friend might be right down by your feet."
+        },
+        {
+          "style": "emphasis",
+          "text": "- The End -"
+        }
+      ],
+      "imageAlt": "Kiro walking with his family while looking down to check the grass below"
+    }
+  ]
+}
