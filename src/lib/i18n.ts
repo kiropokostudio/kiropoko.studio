@@ -2,11 +2,11 @@ import type { Lang } from "@/types/story";
 
 export const defaultLang: Lang = "ko";
 
-export const supportedLangs: Array<{ code: Lang; label: string; shortLabel: string }> = [
-  { code: "ko", label: "한국어", shortLabel: "KO" },
-  { code: "en", label: "English", shortLabel: "EN" },
-  { code: "ja", label: "日本語", shortLabel: "JA" },
-  { code: "zh-Hans", label: "简体中文", shortLabel: "ZH" }
+export const supportedLangs: Array<{ code: Lang; label: string; shortLabel: string; flag: string }> = [
+  { code: "ko", label: "한국어", shortLabel: "KO", flag: "🇰🇷" },
+  { code: "en", label: "English", shortLabel: "EN", flag: "🇺🇸" },
+  { code: "ja", label: "日本語", shortLabel: "JA", flag: "🇯🇵" },
+  { code: "zh-Hans", label: "简体中文", shortLabel: "ZH", flag: "🇨🇳" }
 ];
 
 export const copy = {
@@ -41,7 +41,9 @@ export const copy = {
     backToStories: "작품 목록으로",
     pageView: "페이지",
     scrollView: "스크롤",
-    readerView: "읽기 방식"
+    readerView: "읽기 방식",
+    copyrightNotice: "© 2026 Kiro & Poko Studio. 공개된 모든 작품에 대한 권리는 Kiro & Poko Studio에 있습니다.",
+    contactLabel: "문의"
   },
   en: {
     brand: "Kiro & Poko Studio",
@@ -74,7 +76,9 @@ export const copy = {
     backToStories: "All stories",
     pageView: "Page",
     scrollView: "Scroll",
-    readerView: "Reading mode"
+    readerView: "Reading mode",
+    copyrightNotice: "© 2026 Kiro & Poko Studio. Rights to all published works are reserved by Kiro & Poko Studio.",
+    contactLabel: "Contact"
   },
   ja: {
     brand: "Kiro & Poko Studio",
@@ -107,7 +111,9 @@ export const copy = {
     backToStories: "作品一覧へ",
     pageView: "ページ",
     scrollView: "スクロール",
-    readerView: "読み方"
+    readerView: "読み方",
+    copyrightNotice: "© 2026 Kiro & Poko Studio. 公開中のすべての作品に関する権利は Kiro & Poko Studio に帰属します。",
+    contactLabel: "Contact"
   },
   "zh-Hans": {
     brand: "Kiro & Poko Studio",
@@ -140,7 +146,9 @@ export const copy = {
     backToStories: "返回故事列表",
     pageView: "翻页",
     scrollView: "滚动",
-    readerView: "阅读方式"
+    readerView: "阅读方式",
+    copyrightNotice: "© 2026 Kiro & Poko Studio. 已发布的所有作品权利归 Kiro & Poko Studio 所有。",
+    contactLabel: "Contact"
   }
 } satisfies Record<(typeof supportedLangs)[number]["code"], Record<string, string>>;
 

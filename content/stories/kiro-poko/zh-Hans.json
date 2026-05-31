@@ -36,6 +36,7 @@
     },
     {
       "id": "act-1-lost",
+      "imageAlt": "基罗独自站在辽阔草原上，不安地寻找家人",
       "paragraphs": [
         {
           "text": "基罗比其他小长颈鹿稍微高一点，所以能看到很远很远的地方。可是他的心很小很小，也很容易害怕。"
@@ -744,6 +745,7 @@
     },
     {
       "id": "act-3-warning",
+      "imageAlt": "波可竖起尖刺，提醒基罗有什么东西正跟在后面",
       "paragraphs": [
         {
           "style": "act-title",
@@ -946,6 +948,7 @@
     },
     {
       "id": "act-3-friends",
+      "imageAlt": "危险过去后，基罗低下头向害羞的波可道谢",
       "paragraphs": [
         {
           "text": "他们站了好一会儿，呼哧呼哧地喘着气。"
@@ -1010,7 +1013,7 @@
     },
     {
       "id": "act-4-reunion",
-      "imageAlt": "基罗朝家人跑去，长颈鹿妈妈也迎了过来",
+      "imageAlt": "基罗和波可在湖对岸看见三棵金合欢树下远远的长颈鹿群",
       "paragraphs": [
         {
           "style": "act-title",
@@ -1030,7 +1033,13 @@
         },
         {
           "text": "基罗觉得自己的心好像停了一下。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "act-4-family-reunion",
+      "imageAlt": "基罗朝家人跑去，长颈鹿妈妈也迎了过来",
+      "paragraphs": [
         {
           "style": "dialogue",
           "text": "“妈妈……”"

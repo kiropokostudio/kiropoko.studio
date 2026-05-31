@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import "../globals.css";
+import { GoogleAnalyticsTag } from "@/components/GoogleAnalyticsTag";
+import { SiteFooter } from "@/components/SiteFooter";
 import { defaultLang, getCopy, isSupportedLang, supportedLangs } from "@/lib/i18n";
 
 type LayoutProps = {
@@ -35,7 +37,11 @@ export default async function LangLayout({ children, params }: LayoutProps) {
 
   return (
     <html lang={lang}>
-      <body>{children}</body>
+      <body>
+        {children}
+        <SiteFooter lang={lang} />
+        <GoogleAnalyticsTag />
+      </body>
     </html>
   );
 }

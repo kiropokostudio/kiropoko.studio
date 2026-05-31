@@ -36,6 +36,7 @@
     },
     {
       "id": "act-1-lost",
+      "imageAlt": "Kiro standing alone on the wide savanna and anxiously looking for his family",
       "paragraphs": [
         {
           "text": "Kiro was a little taller than the other young giraffes. That meant he could see very, very far. But his heart felt very, very small, and he was easily frightened."
@@ -744,6 +745,7 @@
     },
     {
       "id": "act-3-warning",
+      "imageAlt": "Poco raising his spines as he warns Kiro that something is following them",
       "paragraphs": [
         {
           "style": "act-title",
@@ -946,6 +948,7 @@
     },
     {
       "id": "act-3-friends",
+      "imageAlt": "After the danger passes, Kiro lowers his head to thank shy Poco",
       "paragraphs": [
         {
           "text": "For a while, the two stood still. They were both panting hard."
@@ -1010,7 +1013,7 @@
     },
     {
       "id": "act-4-reunion",
-      "imageAlt": "Kiro running toward his family as his mother giraffe comes to meet him",
+      "imageAlt": "Kiro and Poco spotting a distant giraffe herd beneath three acacia trees across the lake",
       "paragraphs": [
         {
           "style": "act-title",
@@ -1030,7 +1033,13 @@
         },
         {
           "text": "Kiro felt as if his heart had stopped."
-        },
+        }
+      ]
+    },
+    {
+      "id": "act-4-family-reunion",
+      "imageAlt": "Kiro running toward his family as his mother giraffe comes to meet him",
+      "paragraphs": [
         {
           "style": "dialogue",
           "text": "\"Mom...\""

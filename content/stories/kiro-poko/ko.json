@@ -49,8 +49,15 @@
     },
     {
       "id": "act-1-lost",
-      "kind": "text",
+      "kind": "illustrated",
       "act": 1,
+      "imagePlacement": "part-1",
+      "image": {
+        "src": "/stories/kiro-poko/scenes/scene-01a-1280.webp",
+        "width": 1280,
+        "height": 853,
+        "alt": "넓은 초원에서 가족을 찾지 못한 키로가 불안하게 둘러보는 장면"
+      },
       "paragraphs": [
         {
           "text": "키로는 다른 아기 기린들보다 키가 조금 더 컸어요. 그래서 아주 먼 곳까지 볼 수 있었지요. 하지만 마음은 아주아주 작고, 겁도 많았어요."
@@ -142,6 +149,7 @@
       "id": "act-1-poko",
       "kind": "illustrated",
       "act": 1,
+      "imagePlacement": "part-1",
       "image": {
         "src": "/stories/kiro-poko/scenes/scene-03-1280.webp",
         "width": 1280,
@@ -255,6 +263,7 @@
       "id": "act-2-plan",
       "kind": "illustrated",
       "act": 2,
+      "imagePlacement": "part-3",
       "paragraphs": [
         {
           "style": "act-title",
@@ -326,6 +335,7 @@
       "id": "act-2-two-views",
       "kind": "illustrated",
       "act": 2,
+      "imagePlacement": "part-2",
       "paragraphs": [
         {
           "text": "포코는 코를 땅에 바짝 대고 킁킁 냄새를 맡았어요."
@@ -409,6 +419,7 @@
       "id": "act-2-chiko",
       "kind": "illustrated",
       "act": 2,
+      "imagePlacement": "part-2",
       "image": {
         "src": "/stories/kiro-poko/scenes/scene-06-1280.webp",
         "width": 1280,
@@ -528,6 +539,7 @@
       "id": "act-2-murok",
       "kind": "illustrated",
       "act": 2,
+      "imagePlacement": "part-3",
       "image": {
         "src": "/stories/kiro-poko/scenes/scene-07-1280.webp",
         "width": 1280,
@@ -640,6 +652,7 @@
       "id": "act-2-zikiki",
       "kind": "illustrated",
       "act": 2,
+      "imagePlacement": "part-3",
       "image": {
         "src": "/stories/kiro-poko/scenes/scene-08-1280.webp",
         "width": 1280,
@@ -797,6 +810,7 @@
       "id": "act-2-found",
       "kind": "illustrated",
       "act": 2,
+      "imagePlacement": "part-1",
       "paragraphs": [
         {
           "text": "키로의 눈에 눈물이 글썽글썽 맺혔어요."
@@ -836,8 +850,15 @@
     },
     {
       "id": "act-3-warning",
-      "kind": "text",
+      "kind": "illustrated",
       "act": 3,
+      "imagePlacement": "part-1",
+      "image": {
+        "src": "/stories/kiro-poko/scenes/scene-09a-1280.webp",
+        "width": 1280,
+        "height": 853,
+        "alt": "포코가 가시를 세우고 키로에게 무언가 따라오고 있음을 알리는 장면"
+      },
       "paragraphs": [
         {
           "style": "act-title",
@@ -899,6 +920,7 @@
       "id": "act-3-sabo",
       "kind": "illustrated",
       "act": 3,
+      "imagePlacement": "part-1",
       "image": {
         "src": "/stories/kiro-poko/scenes/scene-09-1280.webp",
         "width": 1280,
@@ -968,6 +990,7 @@
       "id": "act-3-tail",
       "kind": "illustrated",
       "act": 3,
+      "imagePlacement": "part-3",
       "image": {
         "src": "/stories/kiro-poko/scenes/scene-10-1280.webp",
         "width": 1280,
@@ -1054,8 +1077,15 @@
     },
     {
       "id": "act-3-friends",
-      "kind": "text",
+      "kind": "illustrated",
       "act": 3,
+      "imagePlacement": "part-2",
+      "image": {
+        "src": "/stories/kiro-poko/scenes/scene-10b-1280.webp",
+        "width": 1280,
+        "height": 853,
+        "alt": "위기를 넘긴 뒤 키로가 고개를 숙여 포코에게 고마움을 전하는 장면"
+      },
       "paragraphs": [
         {
           "text": "둘은 한동안 서 있었어요. 숨이 헐떡헐떡 가빴어요."
@@ -1123,10 +1153,10 @@
       "kind": "illustrated",
       "act": 4,
       "image": {
-        "src": "/stories/kiro-poko/scenes/scene-11-1280.webp",
+        "src": "/stories/kiro-poko/scenes/scene-10a-1280.webp",
         "width": 1280,
         "height": 853,
-        "alt": "키로가 가족에게 달려가고 엄마 기린이 맞이하는 장면"
+        "alt": "키로와 포코가 호수 건너편 세 그루 아카시아 나무 아래 기린 무리를 발견하는 장면"
       },
       "paragraphs": [
         {
@@ -1147,7 +1177,21 @@
         },
         {
           "text": "키로의 심장이 멈추는 것 같았어요."
-        },
+        }
+      ]
+    },
+    {
+      "id": "act-4-family-reunion",
+      "kind": "illustrated",
+      "act": 4,
+      "imagePlacement": "part-2",
+      "image": {
+        "src": "/stories/kiro-poko/scenes/scene-11-1280.webp",
+        "width": 1280,
+        "height": 853,
+        "alt": "키로가 가족에게 달려가고 엄마 기린이 맞이하는 장면"
+      },
+      "paragraphs": [
         {
           "style": "dialogue",
           "text": "\"엄마...\""
@@ -1204,6 +1248,7 @@
       "id": "act-4-thanks",
       "kind": "illustrated",
       "act": 4,
+      "imagePlacement": "part-3",
       "paragraphs": [
         {
           "text": "얼마나 지났을까요. 키로가 문득 뒤를 돌아보았어요."
@@ -1311,6 +1356,7 @@
       "id": "act-4-goodbye",
       "kind": "illustrated",
       "act": 4,
+      "imagePlacement": "part-2",
       "paragraphs": [
         {
           "text": "열매를 다 먹은 포코가 몸을 돌렸어요. 작은 등에 가시가 빼곡했어요."
@@ -1367,6 +1413,7 @@
       "id": "ending",
       "kind": "illustrated",
       "act": 4,
+      "imagePlacement": "part-1",
       "paragraphs": [
         {
           "text": "며칠이 지났어요."

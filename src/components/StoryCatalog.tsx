@@ -1,7 +1,7 @@
 import Image from "next/image";
-import Link from "next/link";
 import type { Lang, StoryMeta } from "@/types/story";
 import { LanguageSwitcher } from "@/components/LanguageSwitcher";
+import { StoryReadLink } from "@/components/StoryReadLink";
 import { StudioBrand } from "@/components/StudioBrand";
 import { getCopy } from "@/lib/i18n";
 import { getLocalizedImage, getLocalizedValue } from "@/lib/stories";
@@ -85,7 +85,7 @@ export function StoryCatalog({ lang, stories }: StoryCatalogProps) {
         </div>
 
         <div className="story-grid">
-          {stories.map((story) => {
+          {stories.map((story, index) => {
             const isAvailable = story.availableLangs.includes(lang);
             const title = getLocalizedValue(story.title, lang);
             const subtitle = getLocalizedValue(story.subtitle, lang);
@@ -101,6 +101,7 @@ export function StoryCatalog({ lang, stories }: StoryCatalogProps) {
                   width={coverImage.width}
                   height={coverImage.height}
                   priority
+                  sizes="(max-width: 760px) calc(100vw - 32px), (max-width: 1120px) 44vw, 448px"
                 />
                 <div className="story-card__body">
                   <p className="eyebrow">{labels.readAloudPictureStory}</p>
@@ -121,9 +122,13 @@ export function StoryCatalog({ lang, stories }: StoryCatalogProps) {
                     </div>
                   </dl>
                   {isAvailable ? (
-                    <Link className="button-link" href={storyPath(lang, story.slug)}>
-                      {labels.readStory}
-                    </Link>
+                    <StoryReadLink
+                      href={storyPath(lang, story.slug)}
+                      label={labels.readStory}
+                      storySlug={story.slug}
+                      storyLang={lang}
+                      cardPosition={index + 1}
+                    />
                   ) : (
                     <span className="button-link button-link--disabled">{labels.availableSoon}</span>
                   )}

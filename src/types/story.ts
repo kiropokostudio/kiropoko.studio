@@ -26,6 +26,7 @@ export type StoryPage = {
   kind: "cover" | "illustrated" | "text";
   heading?: string;
   act?: number;
+  imagePlacement?: "all" | "first" | "last" | `part-${number}`;
   image?: StoryImage;
   paragraphs: StoryParagraph[];
 };
