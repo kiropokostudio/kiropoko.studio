@@ -1,6 +1,6 @@
 # KiroPoko Studio
 
-Next.js + TypeScript site for the KiroPoko Studio multilingual fairytale library.
+Next.js + TypeScript site for the Kiro & Poko Studio multilingual story catalog.
 
 ## Structure
 

@@ -1,7 +1,7 @@
 import type { Lang, Story } from "@/types/story";
 import { supportedLangs } from "@/lib/i18n";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://fairytale.example.com";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://kiropoko.studio";
 
 export function absoluteUrl(path: string) {
   return new URL(path, siteUrl).toString();

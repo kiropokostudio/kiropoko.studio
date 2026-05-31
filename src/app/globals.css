@@ -1,15 +1,16 @@
 :root {
-  --background: #fffaf2;
+  --background: #f6fbf7;
   --surface: #ffffff;
-  --surface-soft: #f4efe6;
-  --ink: #26302b;
-  --muted: #66736d;
-  --line: #ded7c9;
-  --accent: #c95f43;
-  --accent-strong: #87412f;
-  --leaf: #4f7f63;
-  --sky: #4d7ea8;
-  --shadow: 0 18px 40px rgba(38, 48, 43, 0.12);
+  --surface-soft: #eef6f0;
+  --ink: #22332d;
+  --muted: #64746e;
+  --line: #d6e3dc;
+  --accent: #d86148;
+  --accent-strong: #904231;
+  --leaf: #2f755c;
+  --sky: #3f83a7;
+  --sun: #f4c86a;
+  --shadow: 0 18px 40px rgba(34, 51, 45, 0.12);
 }
 
 * {
@@ -23,7 +24,9 @@ html {
 body {
   margin: 0;
   min-height: 100vh;
-  background: var(--background);
+  background:
+    linear-gradient(180deg, rgba(238, 246, 240, 0.96), rgba(255, 255, 255, 0.78) 52%, rgba(246, 251, 247, 1)),
+    var(--background);
   color: var(--ink);
   font-family:
     ui-rounded,
@@ -73,9 +76,18 @@ a {
 }
 
 .brand {
-  font-size: 1rem;
-  font-weight: 800;
+  display: inline-flex;
+  align-items: center;
   color: var(--ink);
+  flex: 0 0 auto;
+  line-height: 0;
+}
+
+.brand-logo {
+  width: clamp(142px, 15vw, 176px);
+  height: auto;
+  display: block;
+  filter: drop-shadow(0 10px 18px rgba(34, 51, 45, 0.12));
 }
 
 .header-actions {
@@ -122,23 +134,55 @@ a {
 }
 
 .catalog-intro {
-  padding: 34px 0 28px;
+  padding: 56px 0 44px;
   border-top: 1px solid var(--line);
 }
 
 .catalog-intro h1 {
-  max-width: 620px;
+  max-width: 640px;
   margin: 0;
-  font-size: clamp(1.75rem, 3.5vw, 3rem);
-  line-height: 1.14;
+  font-size: clamp(2.1rem, 5.4vw, 4.8rem);
+  line-height: 1.02;
   letter-spacing: 0;
 }
 
-.catalog-intro p {
+.catalog-intro__copy {
+  max-width: 540px;
+  margin: 18px 0 0;
+  color: var(--muted);
+  font-size: clamp(1rem, 1.7vw, 1.18rem);
+  font-weight: 700;
+  line-height: 1.65;
+}
+
+.catalog-section {
+  display: grid;
+  gap: 18px;
+  padding: 24px 0 0;
+}
+
+.section-heading {
+  display: grid;
+  gap: 4px;
+}
+
+.section-heading h2 {
+  margin: 0;
+  font-size: clamp(1.35rem, 2.5vw, 2rem);
+  line-height: 1.2;
+  letter-spacing: 0;
+}
+
+.section-heading--split {
+  grid-template-columns: minmax(0, 1fr) minmax(260px, 440px);
+  align-items: end;
+  gap: 18px;
+}
+
+.section-heading--split p:last-child {
   margin: 0;
   color: var(--muted);
-  font-size: 1rem;
-  line-height: 1.7;
+  line-height: 1.65;
 }
 
 .eyebrow {
@@ -181,7 +225,7 @@ a {
   padding: clamp(24px, 5vw, 46px);
 }
 
-.story-card h2 {
+.story-card h3 {
   margin: 0;
   font-size: clamp(1.8rem, 4vw, 3.5rem);
   line-height: 1.05;
@@ -243,6 +287,60 @@ dd {
 .button-link--disabled {
   color: var(--muted);
   background: var(--surface-soft);
+}
+
+.upcoming-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.upcoming-card {
+  min-height: 240px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 22px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--surface), var(--surface-soft) 32%);
+}
+
+.upcoming-card__slot {
+  margin: 0;
+  color: var(--leaf);
+  font-size: 0.78rem;
+  font-weight: 950;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.upcoming-card h3 {
+  margin: 0;
+  font-size: clamp(1.35rem, 2vw, 1.8rem);
+  line-height: 1.16;
+  letter-spacing: 0;
+}
+
+.upcoming-card p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.65;
+}
+
+.upcoming-card span {
+  width: fit-content;
+  min-height: 34px;
+  display: inline-flex;
+  align-items: center;
+  padding: 0 12px;
+  border: 1px solid color-mix(in srgb, var(--sun), var(--ink) 15%);
+  border-radius: 999px;
+  color: var(--ink);
+  background: color-mix(in srgb, var(--sun), white 38%);
+  font-size: 0.82rem;
+  font-weight: 900;
 }
 
 .story-cover {
@@ -678,7 +776,16 @@ dd {
   }
 
   .catalog-intro {
-    padding: 24px 0 22px;
+    padding: 34px 0 24px;
+  }
+
+  .catalog-intro h1 {
+    font-size: clamp(2.15rem, 11vw, 3.2rem);
+  }
+
+  .section-heading--split,
+  .upcoming-grid {
+    grid-template-columns: 1fr;
   }
 
   .story-card > img {

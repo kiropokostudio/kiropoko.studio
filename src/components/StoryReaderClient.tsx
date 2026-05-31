@@ -13,8 +13,8 @@ type StoryReaderClientProps = {
 type ReaderView = "page" | "scroll";
 type ReaderPage = StoryPage;
 
-const storageKey = "fairytale.reader.view";
-const hintStorageKey = "fairytale.reader.hint.dismissed";
+const storageKey = "kiropoko.reader.view";
+const hintStorageKey = "kiropoko.reader.hint.dismissed";
 const illustratedPageParagraphLimit = 6;
 const illustratedPageCharacterLimit = 360;
 const textPageParagraphLimit = 8;

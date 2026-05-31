@@ -2,6 +2,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { LanguageSwitcher } from "@/components/LanguageSwitcher";
+import { StudioBrand } from "@/components/StudioBrand";
 import { StoryReader } from "@/components/StoryReader";
 import { getCopy, isSupportedLang } from "@/lib/i18n";
 import { getAllStoryMeta, getStory } from "@/lib/stories";
@@ -75,9 +76,7 @@ export default async function StoryPage({ params }: StoryPageProps) {
   return (
     <main className="site-shell site-shell--reader">
       <header className="site-header">
-        <Link className="brand" href={`/${lang}`} aria-label={labels.brand}>
-          {labels.brand}
-        </Link>
+        <StudioBrand href={`/${lang}`} label={labels.brand} />
         <div className="header-actions">
           <Link href={`/${lang}/stories`} className="text-link">
             {labels.backToStories}

@@ -1,6 +1,9 @@
+"use client";
+
 import Link from "next/link";
 import type { Lang } from "@/types/story";
 import { getCopy, supportedLangs } from "@/lib/i18n";
+import { serializeLanguagePreferenceCookie } from "@/lib/languagePreference";
 import { storyPath } from "@/lib/seo";
 
 type LanguageSwitcherProps = {
@@ -8,6 +11,10 @@ type LanguageSwitcherProps = {
   availableLangs?: Lang[];
   slug?: string;
 };
+
+function rememberLanguagePreference(lang: Lang) {
+  document.cookie = serializeLanguagePreferenceCookie(lang);
+}
 
 export function LanguageSwitcher({ currentLang, availableLangs, slug }: LanguageSwitcherProps) {
   const labels = getCopy(currentLang);
@@ -32,6 +39,8 @@ export function LanguageSwitcher({ currentLang, availableLangs, slug }: Language
             className={lang.code === currentLang ? "language-pill is-current" : "language-pill"}
             href={href}
             hrefLang={lang.code}
+            onClick={() => rememberLanguagePreference(lang.code)}
+            prefetch={false}
             aria-current={lang.code === currentLang ? "page" : undefined}
           >
             {lang.shortLabel}
