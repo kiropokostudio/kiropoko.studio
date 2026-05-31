@@ -65,7 +65,7 @@ export function StoryCatalog({ lang, stories }: StoryCatalogProps) {
 
   return (
     <main className="site-shell">
-      <header className="site-header">
+      <header className="site-header site-header--home">
         <StudioBrand href={`/${lang}`} label={labels.brand} />
         <LanguageSwitcher currentLang={lang} />
       </header>
@@ -107,7 +107,7 @@ export function StoryCatalog({ lang, stories }: StoryCatalogProps) {
                   <p className="eyebrow">{labels.readAloudPictureStory}</p>
                   <h3>{title}</h3>
                   <p className="story-card__subtitle">{subtitle}</p>
-                  <p>{description}</p>
+                  <p className="story-card__description">{description}</p>
                   <dl className="story-card__facts">
                     <div>
                       <dt>{labels.readingAge}</dt>

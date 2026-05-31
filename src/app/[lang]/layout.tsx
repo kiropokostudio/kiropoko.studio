@@ -36,7 +36,7 @@ export default async function LangLayout({ children, params }: LayoutProps) {
   }
 
   return (
-    <html lang={lang}>
+    <html lang={lang} data-scroll-behavior="smooth">
       <body>
         {children}
         <SiteFooter lang={lang} />

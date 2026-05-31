@@ -107,7 +107,7 @@ export function StoryReaderClient({ story, lang }: StoryReaderClientProps) {
   const [showHint, setShowHint] = useState(false);
   const [prefersTouchHint, setPrefersTouchHint] = useState(false);
   const articleRef = useRef<HTMLElement | null>(null);
-  const touchStartX = useRef<number | null>(null);
+  const touchStart = useRef<{ x: number; y: number } | null>(null);
   const storyOpenTracked = useRef(false);
   const progressTracked = useRef<Set<number>>(new Set());
   const completionTracked = useRef(false);
@@ -348,22 +348,25 @@ export function StoryReaderClient({ story, lang }: StoryReaderClientProps) {
       className={view === "page" ? "story-reader story-reader--page" : "story-reader story-reader--scroll"}
       aria-labelledby="story-title"
       onTouchStart={(event) => {
-        touchStartX.current = event.touches[0]?.clientX ?? null;
+        const touch = event.touches[0];
+        touchStart.current = touch ? { x: touch.clientX, y: touch.clientY } : null;
       }}
       onTouchEnd={(event) => {
-        if (view !== "page" || touchStartX.current === null) {
+        if (view !== "page" || touchStart.current === null) {
           return;
         }
 
-        const diff = touchStartX.current - (event.changedTouches[0]?.clientX ?? touchStartX.current);
-        touchStartX.current = null;
+        const touch = event.changedTouches[0];
+        const diffX = touchStart.current.x - (touch?.clientX ?? touchStart.current.x);
+        const diffY = touchStart.current.y - (touch?.clientY ?? touchStart.current.y);
+        touchStart.current = null;
 
-        if (Math.abs(diff) < 48) {
+        if (Math.abs(diffX) < 64 || Math.abs(diffX) < Math.abs(diffY) * 1.35) {
           return;
         }
 
         dismissHint();
-        goTo(diff > 0 ? currentIndex + 1 : currentIndex - 1);
+        goTo(diffX > 0 ? currentIndex + 1 : currentIndex - 1);
       }}
     >
       <div className="reader-toolbar">
@@ -411,16 +414,30 @@ export function StoryReaderClient({ story, lang }: StoryReaderClientProps) {
               {prefersTouchHint ? labels.readerHintTouch : labels.readerHintDesktop}
             </div>
           ) : null}
-          <button type="button" onClick={() => goTo(currentIndex - 1)} disabled={currentIndex === 0}>
-            <span aria-hidden="true">←</span>
-            {labels.previousPage}
+          <button
+            type="button"
+            onClick={() => goTo(currentIndex - 1)}
+            disabled={currentIndex === 0}
+            aria-label={labels.previousPage}
+          >
+            <span className="reader-control__arrow" aria-hidden="true">
+              &lt;
+            </span>
+            <span className="reader-control__label">{labels.previousPage}</span>
           </button>
           <div className="reader-controls__track" aria-hidden="true">
             <span style={{ width: `${progress}%` }} />
           </div>
-          <button type="button" onClick={() => goTo(currentIndex + 1)} disabled={currentIndex === maxIndex}>
-            {labels.nextPage}
-            <span aria-hidden="true">→</span>
+          <button
+            type="button"
+            onClick={() => goTo(currentIndex + 1)}
+            disabled={currentIndex === maxIndex}
+            aria-label={labels.nextPage}
+          >
+            <span className="reader-control__label">{labels.nextPage}</span>
+            <span className="reader-control__arrow" aria-hidden="true">
+              &gt;
+            </span>
           </button>
         </nav>
       ) : null}
@@ -486,13 +503,16 @@ function StorySlide({ page, story, labels, index, total, active, pageMode }: Sto
     <section
       className={page.kind === "illustrated" ? "story-page story-page--illustrated" : "story-page"}
       id={page.id}
-      aria-labelledby={`${page.id}-label`}
+      aria-label={pageMode ? `${index + 1} / ${total}` : undefined}
+      aria-labelledby={pageMode ? undefined : `${page.id}-label`}
       data-active={active}
       aria-hidden={pageMode && !active}
     >
-      <div className="story-page__counter" id={`${page.id}-label`}>
-        {index + 1} / {total}
-      </div>
+      {pageMode ? null : (
+        <div className="story-page__counter" id={`${page.id}-label`}>
+          {index + 1} / {total}
+        </div>
+      )}
 
       {page.image ? (
         <figure className="story-page__image">
